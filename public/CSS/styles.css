@@ -1,0 +1,188 @@
+/* -- ELEMNTS -- */
+body {
+  justify-content: center;
+  text-align: center;
+  background-color: #202124;
+}
+
+h3 {
+  color: #EC6FAF;
+  font-size: 2rem;
+  font-family: 'Fugaz One', cursive;
+}
+
+h5 {
+  color: grey;
+  font-family: 'Fugaz One', cursive;
+  margin: 2% 0;
+}
+
+input {
+  margin: auto;
+  display: block;
+  justify-content: center;
+  width: 50%;
+}
+
+textarea {
+  justify-content: center;
+  margin: auto;
+  margin-top: 4%;
+  margin-bottom: 3%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 #3f3f3f;
+  display: block;
+  max-width: 70%;
+}
+
+hr {
+  background-color: grey;
+  width: 80%;
+}
+
+/* -- NEWSLETTER --*/
+
+.loop {
+  text-align: center;
+  max-width: 65%;
+  background-image: linear-gradient(to bottom right, #724Fb4, #72D6E6);
+  border-radius: 100px 25px;
+  padding: 3%;
+  margin: auto;
+  margin-bottom: 3%;
+}
+
+.loopwid {
+  max-width: 75%;
+  margin: auto;
+  margin-bottom: 2%;
+}
+
+.loop-hr {
+  width: 65%;
+  color: white;
+  margin-top: 6%;
+  margin-bottom: 3%;
+}
+
+.loope {
+  max-width: 30%;
+  display: inline-block;
+  height: 40px;
+  border-color: white;
+}
+
+.loop-btn {
+  border-radius: 0 20px 20px 0;
+  font-family: 'Fugaz One', cursive;
+}
+
+/* -- CAROUSEL -- */
+.carousel {
+  height: 400px;
+}
+
+.caro-img {
+  max-width: 35%;
+  margin: 1%;
+  padding: 0;
+  height: auto;
+  display: inline-flex;
+  border-radius: 25px;
+  max-height: 350px;
+  box-shadow: 0 4px 8px 0 black;
+}
+
+/* -- JUMBOTRON -- */
+
+.title {
+  font-family: 'Slackey', cursive;
+  color: #EC6FAF;
+  font-size: 7rem;
+}
+
+.jumbotron {
+  margin: auto;
+  margin-bottom: 2%;
+  max-width: 85%;
+  background-color: inherit;
+  padding-bottom: 2%;
+}
+
+.jumbo-img {
+  width: 55% !important;
+  border-radius: 20px;
+  margin-bottom: 2rem;
+}
+
+.shop-btn {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 8px 0 black;
+  border-radius: 25px;
+  padding-left: 7%;
+  padding-right: 7%;
+  background-color: #724Fb4;
+  border-color: #724Fb4;
+  color: #72D6E6;
+  font-family: 'Fugaz One', cursive;
+}
+
+
+/* -- NAVIGATION -- */
+.navbar {
+  background-color: #202124;
+}
+
+.navbar-collapse {
+  justify-content: center;
+  color: grey;
+}
+
+.nav-link {
+  color: grey !important;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+  font-family: 'Fugaz One', cursive;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+/* -- HOST SIGN UP FORM -- */
+.newsletter {
+  max-width: 50%;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 8px 12px 0 black;
+}
+
+.contact-btn {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 25px;
+  padding: 1% 10%;
+  box-shadow: 0 4px 8px 0 #3f3f3f;
+}
+
+.top {
+  margin-bottom: -1px;
+}
+
+.bottom {
+  margin-top: -1px;
+}
+
+.signup-lbl {
+  padding: 1%;
+  margin: 3%;
+}
+
+.newsletter {
+  max-width: 50%;
+  background-image: linear-gradient(to bottom right, #72D6E6, #724Fb4);
+  border-radius: 100px 25px;
+  padding: 3%;
+  margin-top: 3%;
+}
